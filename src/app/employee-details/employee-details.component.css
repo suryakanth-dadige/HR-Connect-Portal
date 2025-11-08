@@ -1,0 +1,23 @@
+.data{
+    font-size: 24px;
+}
+.main-heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.employee-details-container{
+    display: flex;
+    justify-content: center;
+}
+.employee-details{
+    /* border: 3px solid black; */
+    padding: 80px;
+    margin-top: 25px;
+    background-color:aliceblue;
+    border-radius: 17px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    border: 3px solid #eaeaea;
+    
+    
+    
+}

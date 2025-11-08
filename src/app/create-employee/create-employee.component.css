@@ -1,0 +1,33 @@
+.form-box {
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 2px solid #eee;
+  padding: 20px;
+  height: 43vh;
+  width: 35vw;
+}
+
+.heading {
+  font-weight: 600;
+  margin-top: 45px;
+  margin-bottom: 45px;
+ 
+}
+.lable{
+    font-weight: 500;
+    font-size: 20px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    padding: 10px;
+    margin-top: 25px;
+   
+}
+button{
+     border-radius: 7px;
+     border-width: 0px;
+}
+
